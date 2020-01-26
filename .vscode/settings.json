@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"node_modules": true,
+		"*.pem": true,
+		"package-lock.json": true,
+		"dist": true,
+		"run.bat": true
+	}
+}
