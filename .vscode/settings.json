@@ -3,7 +3,9 @@
 		"node_modules": true,
 		"*.pem": true,
 		"package-lock.json": true,
-		"dist": true,
-		"run.bat": true
+		"dist": false,
+		"run.bat": true,
+		".gitattributes": true,
+		".gitignore": true
 	}
 }

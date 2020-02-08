@@ -1,2 +1,2 @@
 cd dist
-node main.js
+node index
